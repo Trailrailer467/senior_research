@@ -1,7 +1,7 @@
 Senior Research Project
 Objective
 
-The objective of this senior research project is to investigate student preferences between AI chatbots (such as ChatGPT and Gemini) and traditional search engines (such as Google and Bing) when conducting academic research. The project aims to analyze how students perceive each tool in terms of credibility, convenience, accuracy, and usefulness for scholarly purposes.
+The objective of my senior research project is to investigate student preferences between AI chatbots (such as ChatGPT and Gemini) and traditional search engines (such as Google and Bing) when conducting academic research. The project aims to analyze how students perceive each tool in terms of credibility, convenience, accuracy, and usefulness for scholarly purposes.
 
 Background
 
